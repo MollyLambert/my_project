@@ -1,3 +1,5 @@
 some text in file a
 some more text
+<<<<<<< HEAD
 A change made locally
+>>>>>>> 9fc92c29afef7795907183a861fc7dbfea12d9d8
